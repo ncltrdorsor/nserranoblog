@@ -4,7 +4,6 @@ theme: minima
 url: "https://ncltrdorsor.github.io"
 baseurl: "/nserranoblog"
 
-author:
-  name: NSerrano
-
 show_excerpts: true
+
+author: NSerrano
