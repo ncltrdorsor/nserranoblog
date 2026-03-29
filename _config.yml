@@ -1,4 +1,3 @@
-author: NSerrano
 title: NSerrano Blog
 description: Articles on software development, AI coding agents, and engineering practices.
 remote_theme: cotes2020/jekyll-theme-chirpy
@@ -11,16 +10,16 @@ timezone: Europe/Madrid
 
 # Site author
 author:
-	name: NSerrano
-	bio: "Articles on software development, AI coding agents, and engineering practices."
-	url: "https://github.com/ncltrdorsor"
+  name: NSerrano
+  bio: "Articles on software development, AI coding agents, and engineering practices."
+  url: "https://github.com/ncltrdorsor"
 
 # Social links (optional, edit as needed)
 social:
-	name: NSerrano
-	email: ""
-	links:
-		- https://github.com/ncltrdorsor
+  name: NSerrano
+  email: ""
+  links:
+    - https://github.com/ncltrdorsor
 
 # Enable excerpts for posts
 show_excerpts: true
