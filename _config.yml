@@ -1,0 +1,10 @@
+title: NSerrano Blog
+description: Articles on software development, AI coding agents, and engineering practices.
+theme: minima
+url: "https://ncltrdorsor.github.io"
+baseurl: "/nserranoblog"
+
+author:
+  name: NSerrano
+
+show_excerpts: true
